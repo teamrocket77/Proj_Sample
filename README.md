@@ -15,7 +15,7 @@ one other person read and perform (if you have the time) the tutorial and offer 
 
 ##Git cloning
 
-```git clone <url_from_green_code_button>
+```git clone <url_from_green_code_button>```
 
 ## Python Basics
 
